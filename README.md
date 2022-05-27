@@ -18,7 +18,6 @@
 
 Для создания схем можно воспользоваться удобной платформой [draw.io](https://draw.io) или любым другм графическим редактором.
 
-[Краткая шпаргалка](https://docs.google.com/document/d/1KUagjHQQHIQYS2-qI0lgiV2wNxKdi00Q_Xw0nK7t3PA/edit?usp=sharing) по созданию схем БД на платформе [draw.io](https://draw.io).
 
 ### Дополнительное (необязательное) задание 
 
